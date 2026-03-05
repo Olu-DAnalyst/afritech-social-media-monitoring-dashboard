@@ -74,6 +74,7 @@ Download the project resources below:
 - 📊 Power BI Dashboard  
   👉  [Download Power BI Dashboard](https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard/blob/main/afritech_dashboard.pbix)
 
+
 - 🗄 SQL Data Analysis Queries  
   👉 [Download SQL Script](Afritech_Analysis.sql)
 
