@@ -82,4 +82,4 @@ Download the project resources below:
   👉 [Download Project Overview](afritech_project_overview.pptx)
 
 - 📁 Dataset (CSV)  
-  👉 [Download Dataset](dataset/afritech_dataset.xls)
+  👉 [Download Dataset](afritech_dataset.xls)
