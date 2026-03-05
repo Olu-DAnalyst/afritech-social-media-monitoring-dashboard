@@ -72,7 +72,7 @@ The dashboard enables organisations to:
 Download the project resources below:
 
 - 📊 Power BI Dashboard  
-  👉 [Download PBIX File](afritech_dashboard.pbix)
+  👉 [Download Power BI Dashboard](https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard/raw/main/afritech_dashboard.pbix)
 
 - 🗄 SQL Data Analysis Queries  
   👉 [Download SQL Script](Afritech_Analysis.sql)
