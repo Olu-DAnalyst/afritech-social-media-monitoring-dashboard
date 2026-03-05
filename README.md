@@ -1,7 +1,7 @@
 # afritech-social-media-monitoring-dashboard
 Power BI dashboard analysing brand sentiment, product recalls, and crisis monitoring insights.
 
-  ## Business Problem
+## Business Problem
 
 AfriTech Electronics experienced declining customer trust due to rising product recalls, unresolved customer complaints, and increasing negative sentiment across social media platforms.
 
@@ -49,7 +49,7 @@ Develop an intelligent monitoring dashboard to track brand mentions, customer se
 ### Brand Sentiment & Social Media Insights
 ![Brand Dashboard](images/brand-social.png)
 
-  ## Key Insights
+## Key Insights
 
 - Over **74K social interactions** and **38K brand mentions** were analysed across multiple platforms.
 - More than **7,000 unresolved crisis cases** were identified requiring operational intervention.
@@ -57,7 +57,7 @@ Develop an intelligent monitoring dashboard to track brand mentions, customer se
 - Negative sentiment trends highlighted key reputation risks across multiple regions.
 - Customer engagement analysis revealed that **middle-aged customers generate the highest engagement and revenue contribution**.
 
-  ## Business Impact
+## Business Impact
 
 The dashboard enables organisations to:
 
@@ -67,7 +67,7 @@ The dashboard enables organisations to:
 - Track brand engagement across social platforms.
 - Support data-driven decision making for marketing and crisis management teams.
 
-  ## 📂 Project Files
+## 📂 Project Files
 
 Download the project resources below:
 
