@@ -79,7 +79,7 @@ Download the project resources below:
   👉 [Download SQL Script](Afritech_Analysis.sql)
 
 - 📑 Project Overview Presentation  
- 👉 [Download Project Overview](https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard/raw/main/afritech_project_overview.pptx)
+ 👉 [Download Project Overview](https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard/blob/main/afritech_%20project_overview.pptx)
 
 - 📁 Dataset (CSV)  
   👉 [Download Dataset](https://raw.githubusercontent.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard/main/AfriTech_Data.csv)
