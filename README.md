@@ -1,7 +1,7 @@
 # Afritech-social-media-monitoring-dashboard
 Power BI dashboard analysing brand sentiment, product recalls, and crisis monitoring insights.
 
-## Business Problem
+## ⚠️Business Problem
 
 AfriTech Electronics experienced declining customer trust due to rising product recalls, unresolved customer complaints, and increasing negative sentiment across social media platforms.
 
@@ -9,7 +9,7 @@ These issues created reputational risk, declining customer satisfaction, and com
 
 ---
 
-## Project Goal
+## 🎯Project Goal
 
 To design a monitoring solution that enables stakeholders to track sentiment, identify emerging risks, and take proactive action to protect brand reputation and improve customer experience.
 
@@ -65,6 +65,13 @@ Visualises engagement trends and sentiment across platforms to detect reputation
 
 ## Key Insights 
 
+### ⭐ Critical Insight: Reputation risk is driven more by engagement than volume  
+High-engagement posts showed stronger negative sentiment impact than overall volume, meaning viral complaints pose a disproportionately higher risk to brand perception.  
+
+**Implication:**  
+Managing visibility and response speed is more critical than simply reducing complaint volume.
+
+
 ### 1. Large-scale interaction data highlights significant brand exposure  
 Over **74K social interactions** and **38K brand mentions** were analysed, indicating high customer engagement and visibility across platforms. 
 
@@ -83,19 +90,13 @@ Approximately **25,000 product recalls** were recorded, significantly affecting 
 **Implication:**  
 Frequent recalls indicate potential issues in product quality or supply chain processes, requiring investigation and corrective action.  
 
-### 4. Critical Insight: Reputation risk is driven more by engagement than volume  
-High-engagement posts showed stronger negative sentiment impact than overall volume, meaning viral complaints pose a disproportionately higher risk to brand perception.  
-
-**Implication:**  
-Managing visibility and response speed is more critical than simply reducing complaint volume.
-
-### 5. High-engagement negative content amplifies reputational risk  
+### 4. High-engagement negative content amplifies reputational risk  
 Negative sentiment was more prominent in high-engagement posts, meaning widely shared complaints have a disproportionate impact on brand perception.  
 
 **Implication:**  
 Viral complaints should be prioritised for rapid response to minimise reputational damage and customer churn risk.  
 
-### 6. Customer engagement is concentrated within high-value demographic segments  
+### 5. Customer engagement is concentrated within high-value demographic segments  
 Middle-aged customers contributed the highest levels of engagement and revenue across analysed data.  
 
 **Implication:**  
