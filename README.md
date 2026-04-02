@@ -1,4 +1,4 @@
-# afritech-social-media-monitoring-dashboard
+# Afritech-social-media-monitoring-dashboard
 Power BI dashboard analysing brand sentiment, product recalls, and crisis monitoring insights.
 
 ## Business Problem
@@ -11,7 +11,7 @@ These issues created reputational risk, declining customer satisfaction, and com
 
 ## Project Goal
 
-Develop an intelligent monitoring dashboard to track brand mentions, customer sentiment, product recall patterns, and unresolved crisis indicators to support proactive reputation management.
+To design a monitoring solution that enables stakeholders to track sentiment, identify emerging risks, and take proactive action to protect brand reputation and improve customer experience.
 
 ---
 
@@ -69,7 +69,7 @@ Visualises engagement trends and sentiment across platforms to detect reputation
 Over **74K social interactions** and **38K brand mentions** were analysed, indicating high customer engagement and visibility across platforms. 
 
 **Implication:**  
-High exposure increases both opportunity and risk — making real-time monitoring essential to manage brand perception effectively.  
+High exposure increases both growth opportunity and reputational risk, requiring continuous monitoring and rapid response to negative trends.
 
 ### 2. High volume of unresolved crisis cases signals operational inefficiencies  
 More than **7,000 unresolved crisis cases** were identified, suggesting delays in response and escalation processes.  
@@ -83,13 +83,19 @@ Approximately **25,000 product recalls** were recorded, significantly affecting 
 **Implication:**  
 Frequent recalls indicate potential issues in product quality or supply chain processes, requiring investigation and corrective action.  
 
-### 4. High-engagement negative content amplifies reputational risk  
+### 4. Critical Insight: Reputation risk is driven more by engagement than volume  
+High-engagement posts showed stronger negative sentiment impact than overall volume, meaning viral complaints pose a disproportionately higher risk to brand perception.  
+
+**Implication:**  
+Managing visibility and response speed is more critical than simply reducing complaint volume.
+
+### 5. High-engagement negative content amplifies reputational risk  
 Negative sentiment was more prominent in high-engagement posts, meaning widely shared complaints have a disproportionate impact on brand perception.  
 
 **Implication:**  
 Viral complaints should be prioritised for rapid response to minimise reputational damage and customer churn risk.  
 
-### 5. Customer engagement is concentrated within high-value demographic segments  
+### 6. Customer engagement is concentrated within high-value demographic segments  
 Middle-aged customers contributed the highest levels of engagement and revenue across analysed data.  
 
 **Implication:**  
@@ -97,19 +103,23 @@ This segment represents a key revenue driver and should be prioritised in target
 
 ## Recommended Actions
 
-- Prioritise high-engagement complaints for faster resolution
-- Investigate root causes behind high recall regions
-- Implement response SLAs to reduce unresolved cases
+- Prioritise high-engagement complaints using a risk-based response model  
+- Investigate root causes of product recalls in high-risk regions  
+- Implement response time SLAs (e.g. <24 hours) to reduce unresolved cases  
+- Focus retention and engagement strategies on high-value customer segments 
   
 ## Business Impact
 
-The dashboard enables organisations to:
 
-- Detect reputation risks early using sentiment analysis.
-- Prioritise customer complaints and crisis cases faster.
-- Monitor product recall patterns affecting customer trust.
-- Track brand engagement across social platforms.
-- Support data-driven decision making for marketing and crisis management teams.
+This solution enables organisations to:
+
+- Reduce reputational risk by identifying and responding to high-impact complaints earlier  
+- Improve operational efficiency by highlighting unresolved crisis bottlenecks  
+- Enhance customer satisfaction through faster issue resolution  
+- Support data-driven decision-making across marketing, customer service, and operations  
+
+**Potential Outcome:**  
+Applying these insights could reduce negative sentiment exposure and improve response efficiency, leading to stronger customer trust and retention.
 
 ## 📂 Project Files
 
