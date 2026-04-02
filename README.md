@@ -66,40 +66,33 @@ Visualises engagement trends and sentiment across platforms to detect reputation
 ## Key Insights 
 
 ### 1. Large-scale interaction data highlights significant brand exposure  
-Over **74K social interactions** and **38K brand mentions** were analysed, indicating high customer engagement and visibility across platforms.  
+Over **74K social interactions** and **38K brand mentions** were analysed, indicating high customer engagement and visibility across platforms. 
+
 **Implication:**  
 High exposure increases both opportunity and risk — making real-time monitoring essential to manage brand perception effectively.  
-
----
 
 ### 2. High volume of unresolved crisis cases signals operational inefficiencies  
 More than **7,000 unresolved crisis cases** were identified, suggesting delays in response and escalation processes.  
 
-👉 **Implication:**  
+**Implication:**  
 Unresolved issues can escalate into wider reputational damage and reduce customer trust if not addressed promptly.  
-
----
 
 ### 3. Product recalls are a key driver of negative customer perception  
 Approximately **25,000 product recalls** were recorded, significantly affecting customer confidence in product reliability.  
 
-👉 **Implication:**  
+**Implication:**  
 Frequent recalls indicate potential issues in product quality or supply chain processes, requiring investigation and corrective action.  
-
----
 
 ### 4. High-engagement negative content amplifies reputational risk  
 Negative sentiment was more prominent in high-engagement posts, meaning widely shared complaints have a disproportionate impact on brand perception.  
 
-👉 **Implication:**  
+**Implication:**  
 Viral complaints should be prioritised for rapid response to minimise reputational damage and customer churn risk.  
-
----
 
 ### 5. Customer engagement is concentrated within high-value demographic segments  
 Middle-aged customers contributed the highest levels of engagement and revenue across analysed data.  
 
-👉 **Implication:**  
+**Implication:**  
 This segment represents a key revenue driver and should be prioritised in targeted marketing and retention strategies.  
 
 ## Recommended Actions
