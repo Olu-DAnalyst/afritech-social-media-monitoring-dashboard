@@ -102,14 +102,14 @@ Middle-aged customers contributed the highest levels of engagement and revenue a
 **Implication:**  
 This segment represents a key revenue driver and should be prioritised in targeted marketing and retention strategies.  
 
-## Recommended Actions
+## 💡Recommended Actions
 
 - Prioritise high-engagement complaints using a risk-based response model  
 - Investigate root causes of product recalls in high-risk regions  
 - Implement response time SLAs (e.g. <24 hours) to reduce unresolved cases  
 - Focus retention and engagement strategies on high-value customer segments 
   
-## Business Impact
+## 📈 Business Impact
 
 
 This solution enables organisations to:
