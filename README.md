@@ -34,11 +34,38 @@ Develop an intelligent monitoring dashboard to track brand mentions, customer se
 - **Excel / CSV Dataset** – source data preparation
 
 ---
-  
+## 📸 Dashboard Preview
+
+### Executive Overview (KPI Monitoring)
+Displays total interactions, sentiment distribution, and crisis indicators used to monitor overall brand performance and risk levels.
+
+![Executive Dashboard showing KPIs for sentiment, recalls, and crisis volume](images/executive-overview.png)
+
+---
+
+### Crisis & Complaints Monitoring
+Tracks unresolved cases, recall trends, and regional issues to identify operational bottlenecks and high-risk areas requiring attention.
+
+![Crisis Dashboard](images/crisis-complaints.png)
+
+---
+
+### Customer & Sales Insights
+Analyses revenue trends, customer segments, and purchasing behaviour to support data-driven marketing and sales decisions.
+
+![Customer Dashboard](images/customer-sales.png)
+
+---
+
+### Brand Sentiment & Social Media Insights
+Visualises engagement trends and sentiment across platforms to detect reputation risks and customer perception patterns.
+
+![Brand Dashboard](images/brand-social.png)
+
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](images/executive-overview.png)
+![Executive Dashboard showing KPIs for sentiment, recalls, and crisis volume](images/executive-overview.png)
 
 ### Crisis & Complaints Monitoring
 ![Crisis Dashboard](images/crisis-complaints.png)
@@ -54,9 +81,16 @@ Develop an intelligent monitoring dashboard to track brand mentions, customer se
 - Over **74K social interactions** and **38K brand mentions** were analysed across multiple platforms.
 - More than **7,000 unresolved crisis cases** were identified requiring operational intervention.
 - **25,000 product recalls** significantly impacted customer trust and brand perception.
-- Negative sentiment trends highlighted key reputation risks across multiple regions.
+- Negative sentiment increased in high-engagement posts, indicating that viral complaints amplify reputational risk and require
+   prioritised response. 
 - Customer engagement analysis revealed that **middle-aged customers generate the highest engagement and revenue contribution**.
 
+## Recommended Actions
+
+- Prioritise high-engagement complaints for faster resolution
+- Investigate root causes behind high recall regions
+- Implement response SLAs to reduce unresolved cases
+  
 ## Business Impact
 
 The dashboard enables organisations to:
