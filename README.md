@@ -62,28 +62,45 @@ Visualises engagement trends and sentiment across platforms to detect reputation
 
 ![Brand Dashboard](images/brand-social.png)
 
-## Dashboard Preview
 
-### Executive Overview
-![Executive Dashboard showing KPIs for sentiment, recalls, and crisis volume](images/executive-overview.png)
+## Key Insights 
 
-### Crisis & Complaints Monitoring
-![Crisis Dashboard](images/crisis-complaints.png)
+### 1. Large-scale interaction data highlights significant brand exposure  
+Over **74K social interactions** and **38K brand mentions** were analysed, indicating high customer engagement and visibility across platforms.  
+**Implication:**  
+High exposure increases both opportunity and risk — making real-time monitoring essential to manage brand perception effectively.  
 
-### Customer & Sales Insights
-![Customer Dashboard](images/customer-sales.png)
+---
 
-### Brand Sentiment & Social Media Insights
-![Brand Dashboard](images/brand-social.png)
+### 2. High volume of unresolved crisis cases signals operational inefficiencies  
+More than **7,000 unresolved crisis cases** were identified, suggesting delays in response and escalation processes.  
 
-## Key Insights
+👉 **Implication:**  
+Unresolved issues can escalate into wider reputational damage and reduce customer trust if not addressed promptly.  
 
-- Over **74K social interactions** and **38K brand mentions** were analysed across multiple platforms.
-- More than **7,000 unresolved crisis cases** were identified requiring operational intervention.
-- **25,000 product recalls** significantly impacted customer trust and brand perception.
-- Negative sentiment increased in high-engagement posts, indicating that viral complaints amplify reputational risk and require
-   prioritised response. 
-- Customer engagement analysis revealed that **middle-aged customers generate the highest engagement and revenue contribution**.
+---
+
+### 3. Product recalls are a key driver of negative customer perception  
+Approximately **25,000 product recalls** were recorded, significantly affecting customer confidence in product reliability.  
+
+👉 **Implication:**  
+Frequent recalls indicate potential issues in product quality or supply chain processes, requiring investigation and corrective action.  
+
+---
+
+### 4. High-engagement negative content amplifies reputational risk  
+Negative sentiment was more prominent in high-engagement posts, meaning widely shared complaints have a disproportionate impact on brand perception.  
+
+👉 **Implication:**  
+Viral complaints should be prioritised for rapid response to minimise reputational damage and customer churn risk.  
+
+---
+
+### 5. Customer engagement is concentrated within high-value demographic segments  
+Middle-aged customers contributed the highest levels of engagement and revenue across analysed data.  
+
+👉 **Implication:**  
+This segment represents a key revenue driver and should be prioritised in targeted marketing and retention strategies.  
 
 ## Recommended Actions
 
